@@ -1,4 +1,4 @@
-# Rust Links,
+# Rust Links
 ###### Or How I Managed To Close Some Browser Tabs
 
 [The Rust Programming Language 2E]
