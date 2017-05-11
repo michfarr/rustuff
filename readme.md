@@ -2,15 +2,25 @@
 ###### Or How I Managed To Close Some Browser Tabs
 
 [The Rust Programming Language 2E]
+
 [Rust Standard Reference]
+
 [The Rustnomicon]
+
 [The Unstable Book]
+
 [The Little Book of Rust Macros]
+
 [Learning Rust With Entirely Too Many Linked Lists]
+
 [Rust API Guidelines]
+
 [The Rust Blog]
+
 [Rust Roadmap]
+
 [Rust Docs]
+
 [Japaric Blog]
 
 > And that is that. Now I can close some tabs.
